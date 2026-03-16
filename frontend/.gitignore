@@ -1,0 +1,13 @@
+# 依赖与构建
+node_modules
+.next/
+out/
+
+# 环境
+.env
+.env.local
+.env*.local
+
+# 调试与 IDE
+.DS_Store
+*.pem

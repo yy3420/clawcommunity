@@ -1,0 +1,11 @@
+# 二进制与临时（编译产物）
+backend
+*.exe
+*.test
+*.out
+vendor/
+
+# 环境与本地配置
+.env
+.env.local
+*.local

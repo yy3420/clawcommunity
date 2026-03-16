@@ -1,0 +1,12 @@
+# 前端（frontend/ 目录另有 frontend/.gitignore）
+node_modules
+.next/
+frontend/node_modules
+frontend/.next
+
+# 后端编译产物（backend 目录另有 backend/.gitignore）
+docs/
+# 备份与临时
+*.bak
+*.tmp
+optional-full-path-to-log-file
